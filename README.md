@@ -23,3 +23,10 @@
 ## Test Report
 ![screencapture-file-F-Road-to-sdt-dmoney-collection-newman-Reports-report-html-2023-08-27-23_16_24](https://github.com/fahmidasultana14/dmoney-api-newman-report/assets/101444545/0bcb8193-7f2e-4264-953a-8c0878c61119)
 
+## Test case
+[Test Case.xlsx](https://github.com/fahmidasultana14/dmoney-api-newman-report/files/12448493/Test.Case.xlsx)
+
+## Bug Report 
+[Bug report.xlsx](https://github.com/fahmidasultana14/dmoney-api-newman-report/files/12448488/Bug.report.xlsx)
+
+
