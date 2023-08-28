@@ -14,8 +14,8 @@
 ## How to run:
 - clone this project
 - Give following command:
-- '''npm i'''
-- '''npm test'''
+- ``` npm i ```
+- ``` npm test ```
 
 ## d-money api documentation
  https://documenter.getpostman.com/view/29209440/2s9Y5YRhCi
